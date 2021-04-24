@@ -1,0 +1,18 @@
+#modulos
+/node_modules
+#variavel de ambiente
+.env
+#arquivo de configuração de teste
+jest.config.ts
+#arquivo de log do json
+package-lock.json
+#arquivo de configuração do yarn
+package.json
+#arquivo de configuração do typescript
+tsconfig.json
+#arquivo de log do yarn
+yarn.lock
+#arquivo de configuração do ORM
+ormconfig.json
+#arquivo do banco de dados 
+/database/database.sqlite
