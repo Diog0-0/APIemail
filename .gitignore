@@ -15,4 +15,4 @@ yarn.lock
 #arquivo de configuração do ORM
 ormconfig.json
 #arquivo do banco de dados 
-src/database/database.sqlite
+src/database
